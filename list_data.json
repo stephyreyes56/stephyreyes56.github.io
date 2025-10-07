@@ -1,27 +1,29 @@
-[
-  {
-    "category": "Restaurant",
-    "name": "Los Moles",
-    "type": "Mexican",
-    "location": "Oakland"
-  },
-  {
-    "category": "Restaurant",
-    "name": "Half Day Cafe",
-    "type": "American Breakfast",
-    "location": "Kentfield"
-  },
-  {
-    "category": "Hobby",
-    "name": "Scrapbooking"
-  },
-  {
-    "category": "Book",
-    "name": "Lilac Girls"
-  },
-  {
-    "category": "Movie",
-    "name": "Halloween",
-    "year": 1978
-  }
-]
+{
+  "list": [
+    {
+      "category": "Restaurant",
+      "name": "Los Moles",
+      "type": "Mexican",
+      "location": "Oakland"
+    },
+    {
+      "category": "Restaurant",
+      "name": "Half Day Cafe",
+      "type": "American Breakfast",
+      "location": "Kentfield"
+    },
+    {
+      "category": "Hobby",
+      "name": "Scrapbooking"
+    },
+    {
+      "category": "Book",
+      "name": "Lilac Girls"
+    },
+    {
+      "category": "Movie",
+      "name": "Halloween",
+      "year": 1978
+    }
+  ]
+}
